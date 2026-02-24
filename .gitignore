@@ -1,0 +1,9 @@
+x64/ 
+*.obj 
+*.log 
+*.tlog 
+*.pdb 
+*.idb 
+*.ilk 
+*.exe 
+*.recipe 
