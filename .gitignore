@@ -7,3 +7,9 @@ x64/
 *.ilk 
 *.exe 
 *.recipe 
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+teste.cpp
+.vs/
+out/
