@@ -6,10 +6,11 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 ## Organizações das pastas
 
-[**01_prog-21-08**: Exercícios iniciais](https://github.com/talktodeego/exercise-list/tree/main/01_prog-21-08)
+[**01 - Prog 21-08**: Exercícios iniciais](https://github.com/talktodeego/exercise-list/tree/main/01%20-%20Prog%2021-08)
 
-[**02_prog-04-09**: Exercícios de estruturas de decisão e lógica básica](https://github.com/talktodeego/exercise-list/tree/main/02_prog-04-09)
+[**02 - Prog 04-09**: Exercícios de estruturas de decisão e lógica básica](https://github.com/talktodeego/exercise-list/tree/main/02%20-%20Prog%2004-09)
 
+[**03 - Prog 11-09**: Exercícios de estruturas com if else e switch](https://github.com/talktodeego/exercise-list/tree/main/03%20-%20Prog%2011-09)
 
 ## Tecnologias
 
