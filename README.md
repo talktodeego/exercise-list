@@ -12,6 +12,8 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 [**03 - Prog 11-09**: Exercícios de estruturas com if else e switch](https://github.com/talktodeego/exercise-list/tree/main/03%20-%20Prog%2011-09)
 
+[**04 - Prog 13-09**: Exercícios com if, switch, do-while e operadores lógicos](https://github.com/talktodeego/exercise-list/tree/main/04%20-%20Prog%2013-09)
+
 ## Tecnologias
 
 * **Linguagem:** C++
