@@ -14,6 +14,8 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 [**04 - Prog 13-09**: Exercícios com if, switch, do-while e operadores lógicos](https://github.com/talktodeego/exercise-list/tree/main/04%20-%20Prog%2013-09)
 
+[**05 - Prog 09-10**: Exercícios switch, do-while, validações e bibliotecas](https://github.com/talktodeego/exercise-list/tree/main/04%20-%20Prog%2009-10)
+
 ## Tecnologias
 
 * **Linguagem:** C++

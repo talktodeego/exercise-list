@@ -22,11 +22,14 @@ int main() {
 	std::cout << "Qual o tipo do imovel? (1- Residencial, 2- Comercial, 3- Industrial, 4- Outros)\n";
 	std::cin >> tipo;
 
+	//calculo do imposto predial e territorial
 	impostoPredial = vc * ac;
 	impostoTerritorial = mt * at;
 
+	//faz o calculo do iptu
 	iptu = impostoPredial + impostoTerritorial;
 
+	//switch criado para adicionar cada taxa de acordo com o tipo de imovel
 	switch (tipo) {
 	case 1:
 		taxa = 0.01f;
@@ -45,9 +48,11 @@ int main() {
 		exit(0);
 	}
 
+	//faz o cálculo do iptu de acordo com o tipo de imóvel + a taxa do switch
 	aumentoIptu = iptu * taxa;
 	iptu += aumentoIptu;
 
+	//imprimi as infos
 	std::cout << "\n->RESUMO DOS IMPOSTOS<-\n";
 	std::cout << "\nO imposto predial e de: " << impostoPredial;
 	std::cout << "\nO imposto territorial e de: " << impostoTerritorial;
