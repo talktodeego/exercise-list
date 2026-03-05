@@ -16,6 +16,8 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 [**05 - Prog 01-10**: Exercícios switch, do-while, validações e bibliotecas](https://github.com/talktodeego/exercise-list/tree/main/05%20-%20Prog%2001-10)
 
+[**06 - Prog 09-10**: Exercícios loops, validações e bibliotecas](https://github.com/talktodeego/exercise-list/tree/main/06%20-%20Prog%2009-10)
+
 ## Tecnologias
 
 * **Linguagem:** C++
