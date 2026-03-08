@@ -47,5 +47,4 @@ int main() {
 	std::cout << "\nO IPTU e de: " << iptu;
 
 	return 0;
-
 }
