@@ -24,6 +24,6 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 * **Linguagem:** C++
 
-* **IDE:** Visual Studio
+* **IDE:** Visual Studio.
 
-* **Ferramenta de versionamento:** Git 
+* **Ferramenta de versionamento:** Git.
