@@ -19,5 +19,4 @@ int main() {
 
 	return 0;
 }
-
 // acertei - sempre que mexer com porcentagem nao precisa fazer como fiz anteriormente precoJogo * 35 / 100, pode fazer direto como precoJogo * 0.35
