@@ -18,6 +18,8 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 
 [**06 - Prog 09-10**: Exercícios loops, validações e bibliotecas](https://github.com/talktodeego/exercise-list/tree/main/06%20-%20Prog%2009-10)
 
+[**07 - Prog 23-10**: Situações de aleatoriedades com <ctime>, conversão de int pra string e for/do-while](https://github.com/talktodeego/exercise-list/tree/main/07%20-%20Prog%2023-10)
+
 ## Tecnologias
 
 * **Linguagem:** C++
