@@ -51,4 +51,6 @@ int main() {
 
 		std::cout << "\n->GAME OVER<-\n"
 		<< "Acabaram suas vidas";
+
+		return 0;
 }
