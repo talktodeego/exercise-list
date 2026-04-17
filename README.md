@@ -1,5 +1,6 @@
  # Lista de Exercícios
 
+Update: Todos os exercicíos finalizados dia 17/04/2026
 
 Neste repositório subirei **as minhas resoluções** dos exercícios compartilhados pelo **Prof. MSc. ALAN Henrique Pardo de CARVALHO e outros professores** com a turma de **Jogos Digitais FATEC - São Caetano do Sul 2025/2**. O repositório será atualizado conforme **minhas soluções**, seguindo a minha lógica e entendimento.
 
@@ -19,6 +20,8 @@ Neste repositório subirei **as minhas resoluções** dos exercícios compartilh
 [**06 - Prog 09-10**: Exercícios loops, validações e bibliotecas](https://github.com/talktodeego/exercise-list/tree/main/06%20-%20Prog%2009-10)
 
 [**07 - Prog 23-10**: Situações de aleatoriedades com a biblioteca ctime, conversão de int pra string e for/do-while](https://github.com/talktodeego/exercise-list/tree/main/07%20-%20Prog%2023-10)
+
+[**08 - Prog 30-10**: Estudo de arrays e funções](https://github.com/talktodeego/exercise-list/tree/main/08%20-%20Prog%2030-10)
 
 ## Tecnologias
 
