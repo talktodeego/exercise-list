@@ -1,9 +1,8 @@
  # Lista de Exercícios
 
-Update: Todos os exercicíos finalizados dia 17/04/2026
-
 Neste repositório subirei **as minhas resoluções** dos exercícios compartilhados pelo **Prof. MSc. ALAN Henrique Pardo de CARVALHO e outros professores** com a turma de **Jogos Digitais FATEC - São Caetano do Sul 2025/2**. O repositório será atualizado conforme **minhas soluções**, seguindo a minha lógica e entendimento.
 
+**UPDATE: Todos os exercícios foram finalizados dia 17/04/2026**
 
 ## Organizações das pastas
 
